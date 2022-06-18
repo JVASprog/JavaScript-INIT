@@ -19,7 +19,7 @@
 
 ### BROWSER     
 
-    var heading1 = document.getElementsByTagName() -> serve para selecionar e especionar um elemento da pagina web, selecionando atraves do tipo de TAG (h1, h2, entre outras tags). Colocando essa informação na variavel heading1, eu posso mexer nela, seja usando o CSS, pelo console.
+    var heading1 = document.getElementsByTagName()[] -> serve para selecionar e especionar um elemento da pagina web, selecionando atraves do tipo de TAG (h1, h2, entre outras tags) e o índice do vetor dentro dos []. Colocando essa informação na variavel heading1, eu posso mexer nela, seja usando o CSS, pelo console.
 
     exemplo, mudando a cor do h1 pra vermelho:
 
