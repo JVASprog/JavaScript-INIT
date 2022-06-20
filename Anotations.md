@@ -102,7 +102,7 @@
 
     function soma(){
         resultado = n1 + n2;
-        alert('${n1} + ${n2} = ${resultado});
+        alert(`${n1} + ${n2} = ${resultado}`);
     }
 
     
